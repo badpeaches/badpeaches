@@ -20,8 +20,10 @@
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/jira-fff?style=flat&logo=jira&logoColor=0052CC"/></a>
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/redmine-fff?style=flat&logo=redmine&logoColor=B32024"/></a>
 
+<!--
 ### Github state
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badpeaches&show_icons=true&theme=dracula)
+-->
 
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljohm&layout=compact)](https://github.com/ljohm/github-readme-stats)
