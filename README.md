@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/github-fff?style=flat&logo=github&logoColor=181717"/></a>
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/gitlab-fff?style=flat&logo=gitlab&logoColor=FC6D26"/></a>
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/figma-fff?style=flat&logo=figma&logoColor=F24E1E"/></a>
+
+### Github state
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badpeaches&show_icons=true&theme=dracula)
