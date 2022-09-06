@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love chocolate mint🍫🍃
 
 ### Languages and Tools
+<a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/html5-333333?style=flat&logo=html5&logoColor=E34F26"/></a>
 <a href="javascrirpt:void(0)" target="_blank"><img src="https://img.shields.io/badge/javascript-333333?style=flat&logo=javascript&logoColor=F7DF1E"/></a>
