@@ -22,3 +22,6 @@
 
 ### Github state
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badpeaches&show_icons=true&theme=dracula)
+
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljohm&layout=compact)](https://github.com/ljohm/github-readme-stats)
