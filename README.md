@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love chocolate mint🍫🍃
 
 ### Languages and Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#F7DF1E.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
